@@ -26,3 +26,4 @@ Academic Updates
 - **[10/2018]** My first research work tittled "[Classification of Barking Context of Domestic Dog using High-Level Descriptors](https://www.researchgate.net/profile/Benjamin-Gutierrez-Serafin/publication/339204336_Classification_of_Barking_Context_of_Domestic_Dog_using_High-Level_Descriptors/links/5e94eb72299bf13079978a15/Classification-of-Barking-Context-of-Domestic-Dog-using-High-Level-Descriptors.pdf)" was accepted to [LKE](https://lke.cs.buap.mx/2018/) 2018. 
 - **[12/2017]** Joined the Centre for Scientific Research and Higher Education at Ensenada ([CICESE UT3](https://ut3.cicese.mx)) as a Research Assistant.
 - **[06/2017]** Completed my degree in Mechatronics engineering at [Instituto Tecnologico de Tepic](https://www.tepic.tecnm.mx).
+- **[06/2016]** Fully funded to attend an English and emerging technologies course at [Florida Institute of Technology](https://www.fit.edu) FIT.
