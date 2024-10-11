@@ -7,7 +7,7 @@
 main:
   - title: "CV"
     # url: /cv/
-    url: files/BenjaminGS_CV_English_Update2024.pdf
+    url: /files/BenjaminGS_CV_English_Update2024.pdf
 
   - title: "Publications"
     # url: /publications/
