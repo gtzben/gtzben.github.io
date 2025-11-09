@@ -17,9 +17,9 @@ If you find my work interesting, feel free to reach out! Stay tuned for updates 
 
 Academic Updates
 ======
-- **[10/2025]** Paper accepted at the [WellComp 2025](https://wellcomp2025.github.io/index.html) Workshop @ [UbiComp / ISWC](https://ubicomp.org/ubicomp-iswc-2025/) in Espoo.  
+- **[10/2025]** Our [work]{https://doi.org/10.1145/3714394.3756341} received the Best Paper Award at the [WellComp 2025](https://wellcomp2025.github.io/index.html) Workshop @ [UbiComp / ISWC](https://ubicomp.org/ubicomp-iswc-2025/) in Espoo.  
 - **[07/2025]** Attended the [AIDA AI/ML Cutting Edge Trends Summer School](https://www.aida-school.eu/) in Thessaloniki.  
-- **[07/2025]** Presented my [work](https://www.mobiuk.org/2025/abstract/S3_P1_Serafin_BEATS.pdf) at [MobiUK 2025](https://mobiuk.org/2025/) in Edinburgh.  
+- **[07/2025]** Presented our [work](https://www.mobiuk.org/2025/abstract/S3_P1_Serafin_BEATS.pdf) at [MobiUK 2025](https://mobiuk.org/2025/) in Edinburgh.  
 - **[06/2025]** Started my research visit with the Device Research Software Department at [Nokia Bell Labs](https://www.nokia.com/bell-labs/research/sdsr/device-software/) in Cambridge.  
 - **[09/2024]** Volunteered at [ACII 2024](https://acii-conf.net/2024/) conference in Glasgow.
 - **[09/2023]** Paper titled "[Toward assessment of human voice biomarkers of brain lesions through explainable deep learning](https://www.sciencedirect.com/science/article/abs/pii/S174680942300890X)" was accepted for publication in the Journal of Biomedical Signal Processing and Control.
